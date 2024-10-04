@@ -1,0 +1,810 @@
+XPU 1 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 6 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 4 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 13 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 10 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.02it/s]XPU 7 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.93it/s]XPU 5 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 9 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 3 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 2 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.80it/s]XPU 14 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 0 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  6.12it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.92it/s]
+XPU 8 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 11 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]XPU 15 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.83it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.84it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.67it/s]
+XPU 12 memory: 64.00 GB
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  3.76it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.04it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.65it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.64it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.50it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.65it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.50it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.88it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.69it/s]
+
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.93it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.60it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.15it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.87it/s]
+
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.45it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.88it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.74it/s]
+
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.45it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.25it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.32it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.20it/s]
+
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  4.44it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.65it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.43it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.29it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.17it/s]
+
+Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  3.25it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.91it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.73it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.25it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.13it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.11it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.00it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  5.09it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.98it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.97it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.88it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.54it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.49it/s]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.22it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.04it/s]
+2024:10:04-20:29:09:(824783) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824783) |CCL_INFO| process launcher: none, local_proc_idx: 6, local_proc_count: 16
+2024:10:04-20:29:09:(824783) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824783) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824783) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824783) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824778) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824778) |CCL_INFO| process launcher: none, local_proc_idx: 1, local_proc_count: 16
+2024:10:04-20:29:09:(824778) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824778) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824778) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824778) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824780) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824780) |CCL_INFO| process launcher: none, local_proc_idx: 3, local_proc_count: 16
+2024:10:04-20:29:09:(824780) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824780) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824780) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824780) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824779) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824779) |CCL_INFO| process launcher: none, local_proc_idx: 2, local_proc_count: 16
+2024:10:04-20:29:09:(824779) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824779) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824779) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824779) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824781) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824781) |CCL_INFO| process launcher: none, local_proc_idx: 4, local_proc_count: 16
+2024:10:04-20:29:09:(824781) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824781) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824781) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824781) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824790) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824790) |CCL_INFO| process launcher: none, local_proc_idx: 13, local_proc_count: 16
+2024:10:04-20:29:09:(824790) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824790) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824790) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824790) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824787) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824787) |CCL_INFO| process launcher: none, local_proc_idx: 10, local_proc_count: 16
+2024:10:04-20:29:09:(824787) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824787) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824787) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824787) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824784) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824784) |CCL_INFO| process launcher: none, local_proc_idx: 7, local_proc_count: 16
+2024:10:04-20:29:09:(824784) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824784) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824784) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824784) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824786) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824786) |CCL_INFO| process launcher: none, local_proc_idx: 9, local_proc_count: 16
+2024:10:04-20:29:09:(824786) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824786) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824786) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824786) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824782) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824782) |CCL_INFO| process launcher: none, local_proc_idx: 5, local_proc_count: 16
+2024:10:04-20:29:09:(824782) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824782) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824782) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824782) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:09:(824777) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:09:(824777) |CCL_INFO| process launcher: none, local_proc_idx: 0, local_proc_count: 16
+2024:10:04-20:29:09:(824777) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:09:(824777) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:09:(824777) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:09:(824777) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:10:(824791) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:10:(824791) |CCL_INFO| process launcher: none, local_proc_idx: 14, local_proc_count: 16
+2024:10:04-20:29:10:(824791) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:10:(824791) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:10:(824791) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:10:(824791) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:10:(824785) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:10:(824785) |CCL_INFO| process launcher: none, local_proc_idx: 8, local_proc_count: 16
+2024:10:04-20:29:10:(824785) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:10:(824785) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:10:(824785) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:10:(824785) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:10:(824789) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:10:(824789) |CCL_INFO| process launcher: none, local_proc_idx: 12, local_proc_count: 16
+2024:10:04-20:29:10:(824789) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:10:(824789) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:10:(824789) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:10:(824789) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:10:(824788) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:10:(824788) |CCL_INFO| process launcher: none, local_proc_idx: 11, local_proc_count: 16
+2024:10:04-20:29:10:(824788) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:10:(824788) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:10:(824788) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:10:(824788) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:10:(824792) |CCL_WARN| did not find MPI-launcher specific variables, switch to ATL/OFI, to force enable ATL/MPI set CCL_ATL_TRANSPORT=mpi
+2024:10:04-20:29:10:(824792) |CCL_INFO| process launcher: none, local_proc_idx: 15, local_proc_count: 16
+2024:10:04-20:29:10:(824792) |CCL_INFO| initializing level-zero api
+2024:10:04-20:29:10:(824792) |CCL_INFO| initializing level-zero
+2024:10:04-20:29:10:(824792) |CCL_INFO| auto tune with port counts enabled
+2024:10:04-20:29:10:(824792) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:10:(824777) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824777) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824781) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824783) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824782) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824788) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824790) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824787) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824786) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824785) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824791) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824783) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824778) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824789) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824792) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824779) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824781) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824782) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824790) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824787) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824786) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824785) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824788) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824778) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824791) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824789) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824779) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824792) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824784) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824780) |CCL_INFO| initialized level-zero
+2024:10:04-20:29:10:(824784) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:10:(824780) |CCL_INFO| OS info: { Linux llama 5.15.0-73-generic #80-Ubuntu SMP Mon May 15 15:18:26 UTC 2023 x86_64 }
+2024:10:04-20:29:11:(824784) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824791) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824788) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824780) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824785) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824789) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824779) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824792) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824787) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824782) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824781) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824786) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824778) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824790) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824777) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824783) |CCL_INFO| stream: { type: gpu, in_order: 1, device: Intel(R) Data Center GPU Max 1550, device_family: family2 }
+2024:10:04-20:29:11:(824786) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824778) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824777) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824783) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824787) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824781) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824788) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824782) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824790) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824785) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824789) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824784) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824791) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824779) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824792) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:11:(824780) |CCL_INFO| fi_version: 1.10
+2024:10:04-20:29:12:(824784) |CCL_INFO| coord: global [ idx 7, cnt 16 ], local [ idx 7, cnt 16 ]
+2024:10:04-20:29:12:(824789) |CCL_INFO| coord: global [ idx 12, cnt 16 ], local [ idx 12, cnt 16 ]
+2024:10:04-20:29:12:(824791) |CCL_INFO| coord: global [ idx 14, cnt 16 ], local [ idx 14, cnt 16 ]
+2024:10:04-20:29:12:(824788) |CCL_INFO| coord: global [ idx 11, cnt 16 ], local [ idx 11, cnt 16 ]
+2024:10:04-20:29:12:(824792) |CCL_INFO| coord: global [ idx 15, cnt 16 ], local [ idx 15, cnt 16 ]
+2024:10:04-20:29:12:(824777) |CCL_INFO| libfabric version: 1.18.1-impi
+2024:10:04-20:29:12:(824782) |CCL_INFO| coord: global [ idx 5, cnt 16 ], local [ idx 5, cnt 16 ]
+2024:10:04-20:29:12:(824790) |CCL_INFO| coord: global [ idx 13, cnt 16 ], local [ idx 13, cnt 16 ]
+2024:10:04-20:29:12:(824781) |CCL_INFO| coord: global [ idx 4, cnt 16 ], local [ idx 4, cnt 16 ]
+2024:10:04-20:29:12:(824783) |CCL_INFO| coord: global [ idx 6, cnt 16 ], local [ idx 6, cnt 16 ]
+2024:10:04-20:29:12:(824777) |CCL_INFO| coord: global [ idx 0, cnt 16 ], local [ idx 0, cnt 16 ]
+2024:10:04-20:29:12:(824787) |CCL_INFO| coord: global [ idx 10, cnt 16 ], local [ idx 10, cnt 16 ]
+2024:10:04-20:29:12:(824786) |CCL_INFO| coord: global [ idx 9, cnt 16 ], local [ idx 9, cnt 16 ]
+2024:10:04-20:29:12:(824779) |CCL_INFO| coord: global [ idx 2, cnt 16 ], local [ idx 2, cnt 16 ]
+2024:10:04-20:29:12:(824785) |CCL_INFO| coord: global [ idx 8, cnt 16 ], local [ idx 8, cnt 16 ]
+2024:10:04-20:29:12:(824778) |CCL_INFO| coord: global [ idx 1, cnt 16 ], local [ idx 1, cnt 16 ]
+2024:10:04-20:29:12:(824780) |CCL_INFO| coord: global [ idx 3, cnt 16 ], local [ idx 3, cnt 16 ]
+2024:10:04-20:29:12:(824783) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824786) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824792) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824782) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824781) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824790) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824777) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824777) |CCL_INFO| provider: psm3
+2024:10:04-20:29:12:(824777) |CCL_INFO|   nic: { name psm3:mlx5_3, state unknown, speed 12.5 GB/s }
+2024:10:04-20:29:12:(824777) |CCL_INFO|   mr_mode: 0
+2024:10:04-20:29:12:(824777) |CCL_INFO|   threading: 1
+2024:10:04-20:29:12:(824777) |CCL_INFO|   tx_ctx_cnt: 1024
+2024:10:04-20:29:12:(824777) |CCL_INFO|   max_ep_tx_ctx: 1024
+2024:10:04-20:29:12:(824777) |CCL_INFO|   max_msg_size: 4294963200
+2024:10:04-20:29:12:(824784) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824789) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824788) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824791) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824787) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824779) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824785) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824778) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:12:(824780) |CCL_INFO| found 1 nic(s) according to all filters
+2024:10:04-20:29:13:(824784) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824780) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824789) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824792) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824786) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824777) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824777) |CCL_INFO| ep_idx: 0, active_prov_idxs: 0 
+2024:10:04-20:29:13:(824777) |CCL_INFO| ep_idx: 1, active_prov_idxs: 0 
+2024:10:04-20:29:13:(824777) |CCL_INFO| ep_idx: 2, active_prov_idxs: 0 
+2024:10:04-20:29:13:(824777) |CCL_INFO| ep_idx: 3, active_prov_idxs: 0 
+2024:10:04-20:29:13:(824777) |CCL_INFO| atl-ofi:
+{
+  prov_count: 1
+  nw_prov_count: 1
+  nw_prov_first_idx: 0
+  mnic_type: none
+  mnic_include_names: <empty>
+  mnic_exclude_names: <empty>
+  mnic_count: 1
+  mnic_offset: none
+  max_retry_count: 10000
+  progress_mode: 0
+  hmem: 0
+}
+2024:10:04-20:29:13:(824777) |CCL_INFO| atl attrs:
+{
+  in: { shm: 0, hmem: 0, sync_coll: 0, extra_ep: 0, ep_count: 4, mnic_type: none, mnic_count: 4, mnic_offset: none }
+  out: { shm: 0, hmem: 0, mnic_type: none, mnic_count: 1, tag_bits: 64, max_tag: 18446744073709551615 }
+}
+2024:10:04-20:29:13:(824788) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824785) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824791) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824787) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824778) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824783) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824781) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824779) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824782) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824790) |CCL_INFO| psm3 tag_bits: 64, max_tag: 18446744073709551615, mem_tag_format: 12297829382473034410
+2024:10:04-20:29:13:(824777) |CCL_INFO| start workers for local process [0:16]
+2024:10:04-20:29:13:(824779) |CCL_INFO| start workers for local process [2:16]
+2024:10:04-20:29:13:(824787) |CCL_INFO| start workers for local process [10:16]
+2024:10:04-20:29:13:(824788) |CCL_INFO| start workers for local process [11:16]
+2024:10:04-20:29:13:(824781) |CCL_INFO| start workers for local process [4:16]
+2024:10:04-20:29:13:(824783) |CCL_INFO| start workers for local process [6:16]
+2024:10:04-20:29:13:(824785) |CCL_INFO| start workers for local process [8:16]
+2024:10:04-20:29:13:(824780) |CCL_INFO| start workers for local process [3:16]
+2024:10:04-20:29:13:(824778) |CCL_INFO| start workers for local process [1:16]
+2024:10:04-20:29:13:(824786) |CCL_INFO| start workers for local process [9:16]
+2024:10:04-20:29:13:(824789) |CCL_INFO| start workers for local process [12:16]
+2024:10:04-20:29:13:(824784) |CCL_INFO| start workers for local process [7:16]
+2024:10:04-20:29:13:(824790) |CCL_INFO| start workers for local process [13:16]
+2024:10:04-20:29:13:(824791) |CCL_INFO| start workers for local process [14:16]
+2024:10:04-20:29:13:(824792) |CCL_INFO| start workers for local process [15:16]
+2024:10:04-20:29:13:(824782) |CCL_INFO| start workers for local process [5:16]
+2024:10:04-20:29:13:(824779) |CCL_INFO| local process [2:16]: worker: 0, cpu: 183, numa: 1
+2024:10:04-20:29:13:(824778) |CCL_INFO| local process [1:16]: worker: 0, cpu: 187, numa: 1
+2024:10:04-20:29:13:(824782) |CCL_INFO| local process [5:16]: worker: 0, cpu: 171, numa: 1
+2024:10:04-20:29:13:(824784) |CCL_INFO| local process [7:16]: worker: 0, cpu: 163, numa: 1
+2024:10:04-20:29:13:(824779) |CCL_INFO| local process [2:16]: worker: 1, cpu: 182, numa: 1
+2024:10:04-20:29:13:(824787) |CCL_INFO| local process [10:16]: worker: 0, cpu: 151, numa: 1
+2024:10:04-20:29:13:(824783) |CCL_INFO| local process [6:16]: worker: 0, cpu: 167, numa: 1
+2024:10:04-20:29:13:(824789) |CCL_INFO| local process [12:16]: worker: 0, cpu: 143, numa: 0
+2024:10:04-20:29:13:(824781) |CCL_INFO| local process [4:16]: worker: 0, cpu: 175, numa: 1
+2024:10:04-20:29:13:(824788) |CCL_INFO| local process [11:16]: worker: 0, cpu: 147, numa: 1
+2024:10:04-20:29:13:(824778) |CCL_INFO| local process [1:16]: worker: 1, cpu: 186, numa: 1
+2024:10:04-20:29:13:(824785) |CCL_INFO| local process [8:16]: worker: 0, cpu: 159, numa: 1
+2024:10:04-20:29:13:(824792) |CCL_INFO| local process [15:16]: worker: 0, cpu: 131, numa: 0
+2024:10:04-20:29:13:(824782) |CCL_INFO| local process [5:16]: worker: 1, cpu: 170, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| library version: Gold-2021.11.2 2023-12-01T 23:44:29Z (HEAD/b70ee20e)
+2024:10:04-20:29:13:(824784) |CCL_INFO| local process [7:16]: worker: 1, cpu: 162, numa: 1
+2024:10:04-20:29:13:(824790) |CCL_INFO| local process [13:16]: worker: 0, cpu: 139, numa: 0
+2024:10:04-20:29:13:(824779) |CCL_INFO| local process [2:16]: worker: 2, cpu: 181, numa: 1
+2024:10:04-20:29:13:(824780) |CCL_INFO| local process [3:16]: worker: 0, cpu: 179, numa: 1
+2024:10:04-20:29:13:(824787) |CCL_INFO| local process [10:16]: worker: 1, cpu: 150, numa: 1
+2024:10:04-20:29:13:(824791) |CCL_INFO| local process [14:16]: worker: 0, cpu: 135, numa: 0
+2024:10:04-20:29:13:(824783) |CCL_INFO| local process [6:16]: worker: 1, cpu: 166, numa: 1
+2024:10:04-20:29:13:(824789) |CCL_INFO| local process [12:16]: worker: 1, cpu: 142, numa: 0
+2024:10:04-20:29:13:(824781) |CCL_INFO| local process [4:16]: worker: 1, cpu: 174, numa: 1
+2024:10:04-20:29:13:(824788) |CCL_INFO| local process [11:16]: worker: 1, cpu: 146, numa: 1
+2024:10:04-20:29:13:(824778) |CCL_INFO| local process [1:16]: worker: 2, cpu: 185, numa: 1
+2024:10:04-20:29:13:(824785) |CCL_INFO| local process [8:16]: worker: 1, cpu: 158, numa: 1
+2024:10:04-20:29:13:(824792) |CCL_INFO| local process [15:16]: worker: 1, cpu: 130, numa: 0
+2024:10:04-20:29:13:(824782) |CCL_INFO| local process [5:16]: worker: 2, cpu: 169, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| specification version: 1.0
+2024:10:04-20:29:13:(824784) |CCL_INFO| local process [7:16]: worker: 2, cpu: 161, numa: 1
+2024:10:04-20:29:13:(824790) |CCL_INFO| local process [13:16]: worker: 1, cpu: 138, numa: 0
+2024:10:04-20:29:13:(824779) |CCL_INFO| local process [2:16]: worker: 3, cpu: 180, numa: 1
+2024:10:04-20:29:13:(824780) |CCL_INFO| local process [3:16]: worker: 1, cpu: 178, numa: 1
+2024:10:04-20:29:13:(824787) |CCL_INFO| local process [10:16]: worker: 2, cpu: 149, numa: 1
+2024:10:04-20:29:13:(824791) |CCL_INFO| local process [14:16]: worker: 1, cpu: 134, numa: 0
+2024:10:04-20:29:13:(824783) |CCL_INFO| local process [6:16]: worker: 2, cpu: 165, numa: 1
+2024:10:04-20:29:13:(824789) |CCL_INFO| local process [12:16]: worker: 2, cpu: 141, numa: 0
+2024:10:04-20:29:13:(824781) |CCL_INFO| local process [4:16]: worker: 2, cpu: 173, numa: 1
+2024:10:04-20:29:13:(824788) |CCL_INFO| local process [11:16]: worker: 2, cpu: 145, numa: 1
+2024:10:04-20:29:13:(824778) |CCL_INFO| local process [1:16]: worker: 3, cpu: 184, numa: 1
+2024:10:04-20:29:13:(824785) |CCL_INFO| local process [8:16]: worker: 2, cpu: 157, numa: 1
+2024:10:04-20:29:13:(824792) |CCL_INFO| local process [15:16]: worker: 2, cpu: 129, numa: 0
+2024:10:04-20:29:13:(824782) |CCL_INFO| local process [5:16]: worker: 3, cpu: 168, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| compute backend: DPCPP
+2024:10:04-20:29:13:(824784) |CCL_INFO| local process [7:16]: worker: 3, cpu: 160, numa: 1
+2024:10:04-20:29:13:(824790) |CCL_INFO| local process [13:16]: worker: 2, cpu: 137, numa: 0
+2024:10:04-20:29:13:(824780) |CCL_INFO| local process [3:16]: worker: 2, cpu: 177, numa: 1
+2024:10:04-20:29:13:(824787) |CCL_INFO| local process [10:16]: worker: 3, cpu: 148, numa: 1
+2024:10:04-20:29:13:(824791) |CCL_INFO| local process [14:16]: worker: 2, cpu: 133, numa: 0
+2024:10:04-20:29:13:(824783) |CCL_INFO| local process [6:16]: worker: 3, cpu: 164, numa: 1
+2024:10:04-20:29:13:(824789) |CCL_INFO| local process [12:16]: worker: 3, cpu: 140, numa: 0
+2024:10:04-20:29:13:(824781) |CCL_INFO| local process [4:16]: worker: 3, cpu: 172, numa: 1
+2024:10:04-20:29:13:(824788) |CCL_INFO| local process [11:16]: worker: 3, cpu: 144, numa: 1
+2024:10:04-20:29:13:(824785) |CCL_INFO| local process [8:16]: worker: 3, cpu: 156, numa: 1
+2024:10:04-20:29:13:(824792) |CCL_INFO| local process [15:16]: worker: 3, cpu: 128, numa: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| build mode: release
+2024:10:04-20:29:13:(824790) |CCL_INFO| local process [13:16]: worker: 3, cpu: 136, numa: 0
+2024:10:04-20:29:13:(824780) |CCL_INFO| local process [3:16]: worker: 3, cpu: 176, numa: 1
+2024:10:04-20:29:13:(824791) |CCL_INFO| local process [14:16]: worker: 3, cpu: 132, numa: 0
+2024:10:04-20:29:13:(824786) |CCL_INFO| local process [9:16]: worker: 0, cpu: 155, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| C compiler: Clang 17.0.0
+2024:10:04-20:29:13:(824786) |CCL_INFO| local process [9:16]: worker: 1, cpu: 154, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| C++ compiler: Clang 17.0.0
+2024:10:04-20:29:13:(824786) |CCL_INFO| local process [9:16]: worker: 2, cpu: 153, numa: 1
+2024:10:04-20:29:13:(824786) |CCL_INFO| local process [9:16]: worker: 3, cpu: 152, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| hwloc initialized: 1
+{
+  membind_thread_supported: 1
+  numa: {os_idx: 0, memory: 1031768 MB, cores: 48, cpus: 96, membind: 1}
+  numa: {os_idx: 1, memory: 1032126 MB, cores: 48, cpus: 96, membind: 1}
+}
+2024:10:04-20:29:13:(824777) |CCL_INFO| local process [0:16]: worker: 0, cpu: 191, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| local process [0:16]: worker: 1, cpu: 190, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| local process [0:16]: worker: 2, cpu: 189, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| local process [0:16]: worker: 3, cpu: 188, numa: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_WORKER_COUNT: 4
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_WORKER_OFFLOAD: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_WORKER_WAIT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_LOG_LEVEL: info
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ABORT_ON_THROW: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_QUEUE_DUMP: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_SCHED_DUMP: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_SCHED_PROFILE: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ENTRY_MAX_UPDATE_TIME_SEC: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FRAMEWORK: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ATL_TRANSPORT: ofi
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ATL_SHM: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ATL_RMA: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ATL_HMEM: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ATL_SEND_PROXY: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ATL_CACHE: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MNIC: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MNIC_NAME: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MNIC_COUNT: 4
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MNIC_OFFSET: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALGO_FALLBACK: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALL: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALLV: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BARRIER: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BCAST: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_RECV: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCATTER: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_SEND: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALL: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALLV: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV_SCALEOUT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_SCALEOUT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALL_SCALEOUT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALLV_SCALEOUT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCALEOUT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_UNORDERED_COLL: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FUSION: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FUSION_BYTES_THRESHOLD: 16384
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FUSION_COUNT_THRESHOLD: 256
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FUSION_CHECK_URGENT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FUSION_CYCLE_MS: 0.2
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_PRIORITY: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_SPIN_COUNT: 1000
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_YIELD: pause
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MAX_SHORT_SIZE: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BCAST_PART_COUNT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_CACHE_KEY: match_id
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_CACHE_FLUSH: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BUFFER_CACHE: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_STRICT_ORDER: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_STAGING_BUFFER: regular
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_OP_SYNC: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_CHUNK_COUNT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MIN_CHUNK_SIZE: 65536
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_RS_CHUNK_COUNT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_RS_MIN_CHUNK_SIZE: 65536
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV_TOPO_LARGE_SCALE: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV_TOPO_READ: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALLV_TOPO_READ: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCATTER_TOPO_READ: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCATTER_MONOLITHIC_KERNEL: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCATTER_MONOLITHIC_PIPELINE_KERNEL: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCATTER_FALLBACK_ALGO: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV_MONOLITHIC_KERNEL: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV_MONOLITHIC_PIPELINE_KERNEL: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALLV_MONOLITHIC_KERNEL: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALLV_MONOLITHIC_READ_KERNEL: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLGATHERV_PIPE_CHUNK_COUNT: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_PIPE_CHUNK_COUNT: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_SCATTER_PIPE_CHUNK_COUNT: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_REDUCE_PIPE_CHUNK_COUNT: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_NREDUCE_BUFFERING: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_NREDUCE_SEGMENT_SIZE: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_2D_CHUNK_COUNT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_2D_MIN_CHUNK_SIZE: 65536
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLREDUCE_2D_SWITCH_DIMS: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ALLTOALL_SCATTER_MAX_OPS: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BACKEND: native
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_LOCAL_RANK: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_LOCAL_SIZE: 16
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_PROCESS_LAUNCHER: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_MPI_LIBRARY_PATH: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_OFI_LIBRARY_PATH: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_TOPO_ALGO: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_TOPO_COLOR: ze
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_TOPO_P2P_ACCESS: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_PATH: /opt/intel/oneapi/ccl/2021.11/lib/ccl/kernels/
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_DEBUG: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_GROUP_SIZE: 32
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_GROUP_COUNT: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_MEM_ALIGN: 128
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_SYNC: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_1S_LEAD: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_1S_USE_COPY_OPS: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_1S_IPC_WA: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_SINGLE_REDUCE_PEERS: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_KERNEL_CLOSE_FD_WA: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_SYCL_OUTPUT_EVENT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BARRIER_SYNC: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_USE_HMEM: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_BARRIER: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_BIDIR_ALGO: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_CACHE: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DEVICE_CACHE_EVICT_SMALLEST: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DEVICE_CACHE_UPPER_LIMIT: 838860800
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DEVICE_CACHE_NUM_BLOCKS_IN_CHUNK: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DEVICE_CACHE_POLICY: chunk
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_CACHE_OPEN_IPC_HANDLES: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_CACHE_OPEN_IPC_HANDLES_THRESHOLD: 1000
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_CACHE_GET_IPC_HANDLES: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_SINGLE_LIST: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DISABLE_FAMILY_CHECK: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DISABLE_PORT_CHECK: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_ENABLE_OVERSUBSCRIPTION_FALLBACK: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_ENABLE_OVERSUBSCRIPTION_THROW: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_SERIALIZE: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_COPY_ENGINE: link
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_H2D_COPY_ENGINE: none
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_MAX_COMPUTE_QUEUES: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_MAX_COPY_QUEUES: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_ENABLE_CCS_FALLBACK_FOR_COPY: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_LIST_DUMP: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_QUEUE_INDEX_OFFSET: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_CLOSE_IPC_WA: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_LIBRARY_PATH: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_ENABLE: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_FINI_WA: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_MULTI_WORKERS: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_AUTO_TUNE_PORTS: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_IPC_EXCHANGE: drmfd
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_DRM_BDF_SUPPORT: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_PT2PT_READ: 1
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ZE_TYPE2_TUNE_PORTS: undetected
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_PMIX_LIBRARY_PATH: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ITT_LEVEL: 0
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_BF16: avx512bf
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_FP16: avx512f
+2024:10:04-20:29:13:(824777) |CCL_INFO| CCL_ROOT: /opt/intel/oneapi/ccl/2021.11
+2024:10:04-20:29:13:(824777) |CCL_INFO| I_MPI_ROOT: /opt/intel/oneapi/mpi/2021.11
+2024:10:04-20:29:13:(824777) |CCL_INFO| FI_PROVIDER_PATH: /opt/intel/oneapi/mpi/2021.11/opt/mpi/libfabric/lib/prov:/usr/lib/x86_64-linux-gnu/libfabric
+2024:10:04-20:29:13:(824777) |CCL_INFO| FI_PROVIDER: <not specified>
+2024:10:04-20:29:13:(824777) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824781) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824783) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824778) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824784) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824785) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824786) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824780) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824791) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824787) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824779) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824788) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824789) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824790) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824792) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824782) |CCL_INFO| can not retrieve ze pci properties
+2024:10:04-20:29:13:(824777) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824778) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824779) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824780) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824783) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824781) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824784) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824785) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824786) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824787) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824788) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824790) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824789) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824791) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824792) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824782) |CCL_INFO| can not retrieve ze fabric ports
+2024:10:04-20:29:13:(824777) |CCL_INFO| ze_rank_info_vec: 
+{
+  comm_size: 16
+    host: { idx: 0, name: llama }
+      rank: { idx: 0, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 1, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 2, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 3, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 4, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 5, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 6, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 95, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 7, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 95, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 8, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 134, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 9, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 134, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 10, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 144, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 11, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 144, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 12, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 153, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 13, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 153, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 14, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 227, 0, 0, 0, 0, 0, 0, 1 }, subdev_count: 0, subdev_id: na }
+      rank: { idx: 15, device_uuid: { 134, 128, 213, 11, 47, 0, 0, 0, 227, 0, 0, 0, 0, 0, 0, 2 }, subdev_count: 0, subdev_id: na }
+}
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 0 contains ranks: 0 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 1 contains ranks: 1 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 2 contains ranks: 2 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 3 contains ranks: 3 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 4 contains ranks: 4 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 5 contains ranks: 5 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 6 contains ranks: 6 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 7 contains ranks: 7 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 8 contains ranks: 8 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 9 contains ranks: 9 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 10 contains ranks: 10 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 11 contains ranks: 11 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 12 contains ranks: 12 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 13 contains ranks: 13 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 14 contains ranks: 14 
+2024:10:04-20:29:13:(824777) |CCL_INFO| host: 0, plane 15 contains ranks: 15 
+2024:10:04-20:29:13:(824777) |CCL_INFO| rank_info_vec: 
+{
+  comm_size: 16
+    host: { idx: 0, name: llama }
+      rank: { idx: 0, local_proc_idx: 0, uuid: 00824777-18048449-1728073753843525 }
+      rank: { idx: 1, local_proc_idx: 1, uuid: 00824778-18053226-1728073753843502 }
+      rank: { idx: 2, local_proc_idx: 2, uuid: 00824779-10518068-1728073753843508 }
+      rank: { idx: 3, local_proc_idx: 3, uuid: 00824780-21459078-1728073753843515 }
+      rank: { idx: 4, local_proc_idx: 4, uuid: 00824781-16809200-1728073753843513 }
+      rank: { idx: 5, local_proc_idx: 5, uuid: 00824782-91519244-1728073753843572 }
+      rank: { idx: 6, local_proc_idx: 6, uuid: 00824783-27973870-1728073753843507 }
+      rank: { idx: 7, local_proc_idx: 7, uuid: 00824784-19864273-1728073753843512 }
+      rank: { idx: 8, local_proc_idx: 8, uuid: 00824785-19864273-1728073753843512 }
+      rank: { idx: 9, local_proc_idx: 9, uuid: 00824786-19864273-1728073753843512 }
+      rank: { idx: 10, local_proc_idx: 10, uuid: 00824787-30653484-1728073753843514 }
+      rank: { idx: 11, local_proc_idx: 11, uuid: 00824788-46850437-1728073753843517 }
+      rank: { idx: 12, local_proc_idx: 12, uuid: 00824789-93264983-1728073753843519 }
+      rank: { idx: 13, local_proc_idx: 13, uuid: 00824790-32309994-1728073753843521 }
+      rank: { idx: 14, local_proc_idx: 14, uuid: 00824791-29512086-1728073753843529 }
+      rank: { idx: 15, local_proc_idx: 15, uuid: 00824792-18048449-1728073753843525 }
+}
+2024:10:04-20:29:13:(824777) |CCL_INFO| topo_manager:
+{
+  comm_size: 16
+  single_node: 1
+  single_card: 0
+  host_rank_counts: 16 
+  intra_card_colors: 0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 
+  inter_card_colors: 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+  p2p_access: 1
+}
+llama:rank1: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank4: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank6: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank5: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092196391] llama:rank1.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank10: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank3: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank7: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092222378] llama:rank4.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092284631] llama:rank4.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092287390] llama:rank4.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank9: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank8: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092228468] llama:rank6.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092285966] llama:rank6.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092290166] llama:rank6.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank4: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank6: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092223585] llama:rank5.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092285665] llama:rank5.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092288436] llama:rank5.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank2: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092268393] llama:rank10.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092292672] llama:rank10.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank11: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank14: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank12: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank15: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank13: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank5: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092226233] llama:rank3.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092285430] llama:rank3.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092286328] llama:rank3.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank3: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank10: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank1: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092236789] llama:rank7.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092286944] llama:rank7.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092290782] llama:rank7.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank7: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092250091] llama:rank9.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092288454] llama:rank9.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092297463] llama:rank9.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank9: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092242453] llama:rank8.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092287246] llama:rank8.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092297438] llama:rank8.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank8: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank4: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank6: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092267757] llama:rank2.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092283626] llama:rank2.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092284498] llama:rank2.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank2: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092271401] llama:rank11.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092291055] llama:rank11.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092295366] llama:rank11.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank11: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092274360] llama:rank14.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092292608] llama:rank14.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092296306] llama:rank14.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank14: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092273627] llama:rank12.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092289097] llama:rank12.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092292377] llama:rank12.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank12: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092281362] llama:rank15.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092293214] llama:rank15.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092296892] llama:rank15.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank15: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092276598] llama:rank13.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092296117] llama:rank13.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092296206] llama:rank13.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank13: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank5: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank3: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092293839] llama:rank10.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank10: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.092283513] llama:rank1.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.092283571] llama:rank1.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank1: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank7: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank9: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank8: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank2: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank11: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank14: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank12: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank15: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank13: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank1: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank4: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank3: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank5: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank6: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.106441503] llama:rank1.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank2: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank10: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.106455560] llama:rank4.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank12: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank11: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank7: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank13: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank14: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank8: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+llama:rank9: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.106454459] llama:rank3.python: Reading from remote process' memory failed. Disabling CMA support
+llama:rank15: Assertion failure at psm3/ptl_am/ptl.c:196: nbytes == req->req_data.recv_msglen
+[1728073754.106456664] llama:rank5.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106458465] llama:rank6.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106451460] llama:rank2.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106467798] llama:rank10.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106471426] llama:rank12.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106471612] llama:rank11.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106464344] llama:rank7.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106472045] llama:rank13.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106472828] llama:rank14.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106466580] llama:rank8.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106472047] llama:rank9.python: Reading from remote process' memory failed. Disabling CMA support
+[1728073754.106477391] llama:rank15.python: Reading from remote process' memory failed. Disabling CMA support
+Training failed with error: process 2 terminated with signal SIGABRT
+Traceback (most recent call last):
+  File "/scratch-1/trainv4.3.py", line 409, in <module>
+    main()
+  File "/scratch-1/trainv4.3.py", line 403, in main
+    raise e
+  File "/scratch-1/trainv4.3.py", line 395, in main
+    mp.spawn(train, args=(world_size,), nprocs=world_size, join=True)
+  File "/home/sdp/.conda/envs/pytorch2.1/lib/python3.10/site-packages/torch/multiprocessing/spawn.py", line 246, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method="spawn")
+  File "/home/sdp/.conda/envs/pytorch2.1/lib/python3.10/site-packages/torch/multiprocessing/spawn.py", line 202, in start_processes
+    while not context.join():
+  File "/home/sdp/.conda/envs/pytorch2.1/lib/python3.10/site-packages/torch/multiprocessing/spawn.py", line 145, in join
+    raise ProcessExitedException(
+torch.multiprocessing.spawn.ProcessExitedException: process 2 terminated with signal SIGABRT
+/home/sdp/.conda/envs/pytorch2.1/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 16 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
